@@ -1,4 +1,4 @@
-# floating_button_java
+# Atividade URI
 
 A new Flutter application.
 
